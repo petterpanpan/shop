@@ -1,0 +1,51 @@
+ <?xml version="1.0" encoding="utf-8"?>
+
+   <urlset>
+    
+       <url>
+           
+           <loc>http://www.samho.top/index.html</loc>
+          
+           <lastmod>2020-12-23</lastmod>
+          
+           <changefreq>daily</changefreq>
+           
+           <priority>1.0</priority>
+           
+       </url>
+       <url>
+           
+           <loc>http://www.samho.top/category.html</loc>
+          
+           <lastmod>2020-12-23</lastmod>
+          
+           <changefreq>daily</changefreq>
+           
+           <priority>1.0</priority>
+           
+       </url>
+       
+       <url>
+           
+           <loc>http://www.samho.top/detail.html</loc>
+          
+           <lastmod>2020-12-23</lastmod>
+          
+           <changefreq>daily</changefreq>
+           
+           <priority>1.0</priority>
+           
+       </url>
+       <url>
+           
+           <loc>http://www.samho.top/index.en.html</loc>
+          
+           <lastmod>2020-12-23</lastmod>
+          
+           <changefreq>daily</changefreq>
+           
+           <priority>1.0</priority>
+           
+       </url>
+       
+   </urlset>
