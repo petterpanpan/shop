@@ -36,6 +36,9 @@ The mountains have no edges and heaven and earth are united, outstanding and unt
 
 We don't lack standard methods and systems for evaluating workload, but we also believe that if both parties work together based on a relationship of trust, you are entitled to be paid what you think is fair based on the value you provide, so that motivation can be incentivized. That is, of course, if the rest of the team believes that your compensation is also reasonable.
 
+山合大家族：
 素材网站：https://www.321one.com
-我们的官网：https://www.mline.top
+我们的官网：http://www.samho.top
+项目介绍：https://www.mline.top
 团队介绍：https://www.oneshu.xyz
+设计导航：https://www.samho.club
